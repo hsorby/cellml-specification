@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     In addition to the standard :code:`name` attribute, each :code:`variable` must also define a :code:`units` attribute too.
 

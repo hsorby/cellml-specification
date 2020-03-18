@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     The best way to understand how :code:`units` work is to read the next section which defines their child :code:`unit` items.
 

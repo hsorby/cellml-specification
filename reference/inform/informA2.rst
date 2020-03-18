@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     **TODO** Informal notes go here
 

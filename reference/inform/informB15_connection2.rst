@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     Creating :code:`connection` items allows :code:`variable` values to be passed between eligible :code:`components`.
     There are both syntactic (ie: format) and semantic (ie: meaning) rules about how these must be specified, including what "eligible" means.

@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     Points 16.1.1 and 16.1.2 are both saying the same thing for their :code:`variable_1` and :code:`variable_2` attributes respectively:
 

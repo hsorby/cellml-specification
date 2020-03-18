@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     Once you've read the section in the previous "See more" box on how single :code:`unit` items can be combined to form a :code:`units` item, we also need to define how :code:`units` items can be used to form generations of units.
     Using the same example of the 330mL beer bottle as before, here are alternative, but equivalent, definitions.

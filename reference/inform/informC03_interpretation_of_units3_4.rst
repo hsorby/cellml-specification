@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     As outlined in the previous "See more" block, the built-in base units :code:`dimensionless` do not contribute to the unit reduction tuple set.
     This holds for built-in units which are effectively dimensionless (like :code:`radian` and :code:`steradian`) but also for situations in which base units' exponents could be simplified or cancelled.

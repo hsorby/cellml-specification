@@ -7,7 +7,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     There are notes about the :code:`component_ref` usage under the informal link on the :ref:`encapsulation element<encapsulation>` page.
 

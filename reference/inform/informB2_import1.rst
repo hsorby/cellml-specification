@@ -8,7 +8,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     At present (TODO) the location specified by the :code:`href` attribute must be a locally available file (not online).
 The path may either be absolute from the root directory, or relative to the importing model's location.

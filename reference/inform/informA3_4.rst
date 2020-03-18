@@ -7,7 +7,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     Note that the *basic real number string* is distinct from the :ref:`real number string<specA_real_number>` in that it does not include real numbers in scientific notation (also called scientific form, standard index form, or standard form).
 

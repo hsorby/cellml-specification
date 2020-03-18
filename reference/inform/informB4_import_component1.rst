@@ -6,7 +6,7 @@
 
       See more
 
-  .. note::
+  .. container:: infospec
 
     The ablility to import and reuse :code:`component` items is one of the most powerful features in CellML, as it allows modellers to easily plug-n-play different variations and model parts.
     There are three ingredients required in importing an item:

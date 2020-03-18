@@ -8,7 +8,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     The intention behind this restriction is to prevent circular import definitions from occurring.
     Models *are* able to import twins, that is, :code:`component` or :code:`units` items which are identical in content but under different names.

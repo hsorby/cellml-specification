@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     Just as you can have only one :code:`connection` between any two :code:`components`, within that :code:`connection` you can have only one :code:`map_variables` item between any two :code:`variables`.
 

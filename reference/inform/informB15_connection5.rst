@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     The point of creating a :code:`connection` item is in order to connect :code:`variables` between eligible :code:`components`.
     There is no reason to have an empty :code:`connection` - just delete it.

@@ -6,6 +6,6 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     **TODO**

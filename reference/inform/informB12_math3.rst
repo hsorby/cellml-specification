@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     Consider the same :math:`E=mc^2` formula as earlier, but now the value of mass :code:`m` is calculated in another component:
 

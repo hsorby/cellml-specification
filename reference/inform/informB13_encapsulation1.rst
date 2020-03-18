@@ -7,7 +7,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     Encapsulation is the way that CellML manages the hierarchy of components and keeps their modularity.
     This is why there can be only one :code:`encapsulation` element within a :code:`model`: you can think of it as a table of contents for components in the whole model.

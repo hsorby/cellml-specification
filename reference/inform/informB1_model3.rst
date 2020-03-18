@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     The encapsulation of a model defines the nested structure of its components.
     This in turn affects which variables have access to which other variables, and allows the modular behaviour to happen at any level.

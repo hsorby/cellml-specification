@@ -6,7 +6,7 @@
 
     See more
 
-  .. note::
+  .. container:: infospec
 
     There are two items related to units in CellML, and their naming can be confusing!
     The plural - :code:`units` represents the actual final units to be used in the model.
