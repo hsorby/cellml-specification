@@ -4,4 +4,6 @@
   :start-after: marker_cellml_information_sets_start
   :end-before: marker_cellml_information_sets_end
 
-.. include:: inform/informA2.rst
+.. only:: html
+
+    .. include:: inform/informA2.rst

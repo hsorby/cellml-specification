@@ -4,4 +4,6 @@
   :start-after: marker_interpretation_of_initial_values_start
   :end-before: marker_interpretation_of_initial_values_end
 
-.. include:: inform/informC6_interpretation_of_initial_value.rst
+.. only:: html
+
+  .. include:: inform/informC6_interpretation_of_initial_value.rst

@@ -5,4 +5,6 @@
   :start-after: marker_reset_value_start
   :end-before: marker_reset_value_end
 
-.. include:: inform/informB11_reset_value1.rst
+.. only:: html
+
+  .. include:: inform/informB11_reset_value1.rst

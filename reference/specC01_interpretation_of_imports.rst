@@ -4,4 +4,6 @@
   :start-after: marker_interpretation_of_imports_start
   :end-before: marker_interpretation_of_imports_end
 
-.. include:: inform/informC01_imports.rst
+.. only:: html
+
+  .. include:: inform/informC01_imports.rst

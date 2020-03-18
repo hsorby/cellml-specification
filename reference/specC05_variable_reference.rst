@@ -4,4 +4,6 @@
   :start-after: marker_variable_reference_start
   :end-before: marker_variable_reference_end
 
-.. include:: inform/informC5_variable_reference.rst
+.. only:: html
+
+  .. include:: inform/informC5_variable_reference.rst

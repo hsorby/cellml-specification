@@ -4,4 +4,6 @@
   :start-after: marker_interpretation_of_mathematics_start
   :end-before: marker_interpretation_of_mathematics_end
 
-.. include:: inform/informC8_interpretation_of_mathematics.rst
+.. only:: html
+
+  .. include:: inform/informC8_interpretation_of_mathematics.rst
