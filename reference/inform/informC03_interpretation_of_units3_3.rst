@@ -6,7 +6,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     You may have noticed in the :ref:`Built-in Units<table_built_in_units>` that there is an entry labelled :code:`dimensionless`.
 

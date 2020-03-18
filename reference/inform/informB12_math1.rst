@@ -6,7 +6,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     Because MathML is an entire language in its own right, we just don't have the scope to go through its general aspects.
     Some great general resources are available on the :mathml2help:`MathML 2.0 site <>`, and we'll discuss below the more CellML specific restrictions in the other "See more" sections.

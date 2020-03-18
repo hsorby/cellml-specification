@@ -6,7 +6,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     The terms "irreducible units" and "unit reduction" really need to be understood together, but before either make sense we need to explain the concept of "base units".
     In the physical world there are seven base units defined in the SI (Système International d'Unités) system.

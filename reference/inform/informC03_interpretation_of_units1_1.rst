@@ -6,7 +6,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     The :code:`prefix` term is different from the other attributes of a :code:`unit` element in that it can accept both a string (the name of the prefix from the :ref:`Prefix table<table_prefix_values>`) or an integer (the base 10 log equivalent to the prefix).
     It's also different because **it will become invalid if a real number is used**.

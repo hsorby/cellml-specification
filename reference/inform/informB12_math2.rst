@@ -6,7 +6,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     Probably the biggest aspect of CellML's restrictions of MathML is that it is confined to using **only MathML2** content markup.
     No form of presentation markup is permitted, and only the version MathML2 is allowed (ie: not MathML3 or greater).

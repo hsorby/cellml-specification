@@ -7,7 +7,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     The :code:`test_value` (like the :code:`reset_value`) block takes a slightly different kind of MathML statement to those in the :code:`component` elements.
     Because the the left hand side of the equation has already been effectively defined by specifying the :code:`test_variable`, the :code:`math` child of a :code:`test_value` needs only to specify the right hand side.

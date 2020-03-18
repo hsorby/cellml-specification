@@ -6,7 +6,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     You may only have one :code:`connection` any two :code:`components`, regardless of which is specified as :code:`component_1` and which is specified as :code:`component_2`.
     If you have found duplicate :code:`connection` elements, simply merge their contents - a :code:`connection` can contain any number of :code:`map_variables` children.

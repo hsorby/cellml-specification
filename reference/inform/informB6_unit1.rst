@@ -6,7 +6,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     :code:`Units` items are simply a collection of :code:`Unit` items, each with a prefix, multiplier, and exponent.
     They can be nested and contain multiple generations of inheritance, which means that there's always a possibility of circular definitions.

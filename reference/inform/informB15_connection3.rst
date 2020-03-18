@@ -6,7 +6,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     All this means is that mapped/connected :code:`variables` (ie: those specified by :code:`connection` and :code:`map_variables` items) must be in different :code:`components`.
     Since the only reason you'd need to use these connections is in order to access a :code:`variable` in another :code:`component`, this restriction does kinda make sense!

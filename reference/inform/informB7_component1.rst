@@ -6,7 +6,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     Components are a convenient way to modularise the model, allowing parts to be removed, replaced, and reused easily.
     They define the scope of their contents, meaning that the items within a component need only be uniquely named in that local scope.

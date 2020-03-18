@@ -6,7 +6,7 @@
 
         Read more
 
-    .. container:: infospec
+    .. note::
 
       Importing :code:`Units` means that you're assured of consistency between your models, and allows for a more modular reuse of the components which use them.
       There are three ingredients required in importing an item:

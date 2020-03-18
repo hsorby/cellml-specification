@@ -8,7 +8,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     The only items which can be imported directly are :code:`component` and :code:`units` items.
     The intention is that these are modular building blocks, able to be passed between models easily through this import functionality.

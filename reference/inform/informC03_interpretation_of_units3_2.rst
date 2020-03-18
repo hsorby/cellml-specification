@@ -6,7 +6,7 @@
 
     See more
 
-  .. container:: infospec
+  .. note::
 
     As discussed in the previous "See more" block, "irreducible" or "base" units are those fundamental quantities which cannot be expressed in any other way.
     This includes user-defined base units too.
