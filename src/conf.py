@@ -18,7 +18,7 @@ import datetime
 
 date_today = datetime.datetime.today()
 
-unofficial = False
+unofficial = True
 
 if unofficial:
   tags.add('unofficial')
@@ -192,9 +192,9 @@ copyright = u'2019-{0}, CellML Editors and Contributors'.format(
 # built documents.
 #
 # The short X.Y version.
-version = '2.0'
+version = '2.1'
 # The full version, including alpha/beta/rc tags.
-release = '2.0'
+release = '2.1'
 if unofficial:
     version += '-unofficial'
     release += '-unofficial'
